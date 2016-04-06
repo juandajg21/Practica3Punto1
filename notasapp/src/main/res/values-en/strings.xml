@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grades</string>
+    <string name="title">Percentages</string>
+    <string name="expo">Statements</string>
+    <string name="prac">Practices</string>
+    <string name="proy">Project</string>
+    <string name="nota">Final Grade</string>
+    <string name="calcular">Calc</string>
+    <string name="guardar">Save</string>
+    <string name="configurar">Configure</string>
+    <string name="limpiar">Clean</string>
+    <string name="tPorcentajes"></string>
+    <string name="mensaje">Initial percentages has been restored</string>
+</resources>

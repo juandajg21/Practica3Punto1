@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="title">Porcentajes</string>
+    <string name="expo">Exposiciones</string>
+    <string name="prac">Prácticas</string>
+    <string name="proy">Proyecto</string>
+    <string name="nota">Nota Final</string>
+    <string name="calcular">Calcular</string>
+    <string name="guardar">Guardar</string>
+    <string name="configurar">Configurar</string>
+    <string name="limpiar">limpiar</string>
+    <string name="tPorcentajes"></string>
+    <string name="mensaje">Se han restaurado los valores iniciales</string>
+</resources>
